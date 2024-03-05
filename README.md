@@ -5,5 +5,5 @@ A following descrives a workflow for the 10xMultiomic data by using Star Solo.  
 
 A 10XMultiomics platform has two components, GEX and ATAC, which are combined to an one single GEX and ATAC count matrix with common barcodes, although GEX and ATAC sequecing are done in the different reactions.  
 
-
+I am going to update this as soon as I can.  I am a lot behind on other things. 
 code
