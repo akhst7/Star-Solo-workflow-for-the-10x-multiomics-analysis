@@ -1,1 +1,3 @@
-
+# Step 1:GEX and ATAC Read Mapping by STARSolo #
+The data to be analyzed is ```PBMC from a Healthy Donor - Granulocytes Removed Through Cell Sorting (3k)``` and is available to download from https://www.10xgenomics.com/datasets/pbmc-from-a-healthy-donor-granulocytes-removed-through-cell-sorting-3-k-1-standard-1-0-0 (sign is required.)
+All needed at this point is just a fastq sequence file(still 22GB) and after downloading the fastq file, ```untar``` it.  There are two direactoris, ```GEX``` and ```ATAC```.  ```GEX``` should contain 4 gzip compressed fastq files while ```ATAC``` has 12 files.   Before getting into the actual read mapping pipeline for ```GEX``` and ```ATAC```, it is necessary to a basic  
